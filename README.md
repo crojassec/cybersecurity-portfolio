@@ -1,1 +1,2 @@
-# cybersecurity-portfolio
+# cybersecurity-portfolio 
+This repository documents my analysis of the February 2021 Oldsmar, Florida water treatment facility cyberattack. The write-up covers how the attacker gained remote access, the potential physical consequences of the sodium hydroxide manipulation, and defensive recommendations grounded in ICS/OT security principles. Written from the perspective of someone with hands-on experience in industrial systems and critical infrastructure operations.
